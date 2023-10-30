@@ -1,4 +1,4 @@
-# Readme do Repositório da API em Python
+# API em Python
 
 Este repositório contém uma API desenvolvida em Python usando as bibliotecas Flask, SQL e Pydantic. A API foi projetada para fornecer uma interface simples e eficaz para realizar operações de CRUD (Create, Read, Update, Delete) em um banco de dados. Este README fornece informações essenciais sobre como configurar, executar e usar a API.
 
@@ -22,7 +22,7 @@ git clone https://github.com/seu-usuario/repositorio-api-python.git
 2. Navegue até o diretório do projeto:
 
 ```
-cd repositorio-api-python
+cd api-python
 ```
 
 3. Crie e ative um ambiente virtual (recomendado):
