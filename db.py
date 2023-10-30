@@ -1,12 +1,6 @@
 import mysql.connector
 from app import *
-
-db = mysql.connector.connect(
-    host="localhost",
-    user="root",
-    passwd="4rth1802",
-    database="apiPython"
-)
+from db_config import db
 
 
 cursor = db.cursor()
